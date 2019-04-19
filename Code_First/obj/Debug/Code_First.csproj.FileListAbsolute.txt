@@ -1,0 +1,14 @@
+C:\Users\alp_g\OneDrive\Desktop\C\Code_First\Code_First\bin\Debug\Code_First.exe.config
+C:\Users\alp_g\OneDrive\Desktop\C\Code_First\Code_First\bin\Debug\Code_First.exe
+C:\Users\alp_g\OneDrive\Desktop\C\Code_First\Code_First\bin\Debug\Code_First.pdb
+C:\Users\alp_g\OneDrive\Desktop\C\Code_First\Code_First\bin\Debug\EntityFramework.dll
+C:\Users\alp_g\OneDrive\Desktop\C\Code_First\Code_First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alp_g\OneDrive\Desktop\C\Code_First\Code_First\bin\Debug\EntityFramework.xml
+C:\Users\alp_g\OneDrive\Desktop\C\Code_First\Code_First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alp_g\OneDrive\Desktop\C\Code_First\Code_First\obj\Debug\Code_First.csprojAssemblyReference.cache
+C:\Users\alp_g\OneDrive\Desktop\C\Code_First\Code_First\obj\Debug\Code_First.csproj.CoreCompileInputs.cache
+C:\Users\alp_g\OneDrive\Desktop\C\Code_First\Code_First\obj\Debug\Code_First.csproj.CopyComplete
+C:\Users\alp_g\OneDrive\Desktop\C\Code_First\Code_First\obj\Debug\Code_First.exe
+C:\Users\alp_g\OneDrive\Desktop\C\Code_First\Code_First\obj\Debug\Code_First.pdb
+C:\Users\alp_g\OneDrive\Desktop\C\Code_First\Code_First\obj\Debug\Code_First.Migrations.createCategories.resources
+C:\Users\alp_g\OneDrive\Desktop\C\Code_First\Code_First\obj\Debug\Code_First.csproj.GenerateResource.cache
