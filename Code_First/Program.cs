@@ -37,6 +37,17 @@ namespace Code_First
 
         static void Main(string[] args)
         {
+            MoviesContext db = new MoviesContext();
+            var Category = new Category()
+            {
+                Description = "Desc 1",
+                Name = "Category 1"
+
+            };
+
+            db.Categories.Add(Category); // Changes storing on RAM
+            db.SaveChanges();            // To send the changes on database.
+
         }
     }
 }
